@@ -1,6 +1,15 @@
 # Anotações
 
+## JV
+
+- **Conceitos**: Seq, SeqRecord, SeqIO, formatos (FASTA vs GenBank);
+- **Parse de GenBank**: _SeqRecord.features_, extração de CDS/genes, metadados;
+- **Exercício prático**: 1. Baixar um GenBank; 2. Extrair CDS; 3. Traduzir; 4. Salvar FASTA;
+
 ## Plano de Aula: Biopython
+
+- [Slides](https://www.canva.com/design/DAG_osc-YGg/0Gc0Fnd-SFa10DRa5AWjDw/edit)
+- [Colab](https://colab.research.google.com/drive/1XmGi_22MdoPSudwjJ8YaCQjGLbM6PozV)
 
 ### Introdução a Biopython
 
