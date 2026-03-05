@@ -1,0 +1,1123 @@
+Biopython 1.81 multiple sequence alignment
+
+
+mm9.chr10                           TCATAGGTATTTATTTTTAAATATGGTTTGCTTTATGGCTAGAACACACC
+oryCun1.scaffold_133159             TCACAGATATTTACTATTAAATATGGTTTGTTATATGGTTACGGTTCATA
+
+mm9.chr10                           GATTACTTAAAATAGGATTAACC--CCCATACACTTTAAAAATGATTAAA
+oryCun1.scaffold_133159             GGTTACTTGGAATTGGATTAACCTTCTTATTCATTGCAGAATTGGTTACA
+
+mm9.chr10                           CAACATTTCTGCTGCTCGCTCACATTCTTCATAGAAGATGACATAATGTA
+oryCun1.scaffold_133159             CTGTGTTCTTGACCTTTGCTTGTTTTCTCCATGGAAACTGATGTCAAATA
+
+mm9.chr10                           TTTTCCTTTTGGTT
+oryCun1.scaffold_133159             CTTTCCCTTTGGTT
+
+
+mm9.chr10                           AGTCTTTCCAATGGGACCTGTGAGTCCTAACTATGCCAGC-----ACTCC
+ponAbe2.chr6                        AGTCTTCATAAGTGGAAATATAAGTTTTAATTATTCCAGCCAAATCATCA
+panTro2.chr6                        AGTCTTCATAAGTGGAAATATAAGTTTTAATTATTCCAGCTAAATCATCA
+hg18.chr6                           AGTCTTCATAAGTGGAAATATAAGTTTTAATTATTCCAGCTAAATCATCA
+
+mm9.chr10                           CAACAGCAAGACACTAAGTT---------CACTCATCCTTGGTGGATGGG
+ponAbe2.chr6                        CAGTAAAAAGATGTTAATATTTATCTCCATACTCATCCTTACCAGATAGC
+panTro2.chr6                        CAGTAAAAAGATGTTAATATTTATCTCCATACTCATCCTTACCAGATAGC
+hg18.chr6                           CAGTAAAAAGATGTTAATATTTATCTCCATACTCATCCTTACCAGATAGC
+
+mm9.chr10                           ATTTTGCTCCTGGAGTGTCAC-----CAAATTAAATAACCAGTGAGCAGA
+ponAbe2.chr6                        CTTGTGCTCTTGGAATGTCGTACTTATGAAGTGAGCAAGCAGTATTTAGA
+panTro2.chr6                        CTTGTGCTCTTGGAATGTCGTATTTGTGAAGTGAGCAAGCAGTATGTAGA
+hg18.chr6                           CTTGTGCTCTTGGAATGTCGTATTTGTGAAGTGAGCAAGCAGTATGTAGA
+
+mm9.chr10                           GTTG--TGACGAGCATCAGGCTCTGGATTTAGGTGAGAGACCTTAGTGTA
+ponAbe2.chr6                        ATAGCATGAGATAGACCAGTCACCAA----AGGTTGTTGATTTCTAGGAA
+panTro2.chr6                        ATAGCATGAGATAGACCAGTCACCAA----AGGTTGTTGATTTCTAGGAA
+hg18.chr6                           ATAGCATGAGATAGACCAGTCACCAA----AGGTTGTTGATTTCTAGGAA
+
+mm9.chr10                           TGTCTCCTGTAGGTCGCAGCTCCCTATGGAT-------------------
+ponAbe2.chr6                        TGTCTCATGCTGGTTGCATCTGTGTGTGAACTGGGAAGTTGAGATCGCTT
+panTro2.chr6                        TGTCTCATGCTGGTTGCATCTGTGTGTGAACTGGGAAGTTGAGATCGCTT
+hg18.chr6                           TGTCTCATGCTGGTTGCATCTGTGTGTGAACTGGGAAGTTGAGATCGCTT
+
+mm9.chr10                           -------GAGTCAAGTGAAGGTCCTGAGACAA------------------
+ponAbe2.chr6                        TCCACAGAAATTAAGCAAAATCCTGGAGGTAAGTTGTGGA----------
+panTro2.chr6                        TCCACAGAAATTAAGCAAAATCCTGGAGGTAAGTTGTGGA----------
+hg18.chr6                           TCCACAGAAATTAAGCAAAATCCTGGAGGTAAGTTGTGGATAGGGATGCT
+
+mm9.chr10                           -CAAGTCCTC----GGCTATGTGGGGGTGAGGG-------------ATGC
+ponAbe2.chr6                        -TAGGGCTGCTGTAGACTCCCTGACAGCGTAGGAACT--------AGAAC
+panTro2.chr6                        -TAGGGATGCTGTAGACTCCCTGACAGCATAGGAACTAGAACTCTGAAGC
+hg18.chr6                           GTAGACTCCCT---GACAGCATAGGAAC-TAGAACTCTGAAGC---AAGC
+
+mm9.chr10                           ----AG--------CTGGAACCTCAGGGA-TCTCTGT-AAGCAGTGGCAT
+ponAbe2.chr6                        TCTGAAGCAAGCCACTGGTGCCTAACAAATTCTTTCTAAAGTTGTAGAGT
+panTro2.chr6                        ----AAGCCA----CTGGTGCCTAACAAATTCTTTATAAAGTTGTAGAGT
+hg18.chr6                           ----CA--------CTGGTGCCTAACAAATTCTTTATAAAGTTGTAGAGT
+
+mm9.chr10                           AAATGCTTGGCGG--GAGAGAGCATGTTAGAGCTCACACGACATAGGAAG
+ponAbe2.chr6                        GGATCTGTGGGGGCTGACGTGGCCTCCAACGCCTAACGTGGTTGAAAAGG
+panTro2.chr6                        GGATCTGTGGGGGCTGACGTGGCCTCCAACGCCTAACATGGTTGAAAAGG
+hg18.chr6                           GGATCCATGGGGGCTGACGTGGCCTCCAACGCCTAACATGGTTGAAAAGG
+
+mm9.chr10                           CCACTGA--GACACTG
+ponAbe2.chr6                        CCATGGACTTGTGTTC
+panTro2.chr6                        CCATGGACTTGTGTTC
+hg18.chr6                           CCATGGACTTGTGTTC
+
+
+mm9.chr10                           TGGGTCCCCTTGGCACATCCAGATCTCCCCAGTTAACCTGTCCTGCTTAG
+hg18.chr6                           TGGGTTCCTCTAGAATAACCAAG--TCCTCACGTAACCTGGTGTGTATTG
+panTro2.chr6                        TGGGTTCCTCTAGAATAACCAAG--TCCTCACGTAACCTGGTGTGTATTG
+ponAbe2.chr6                        TGGGTTCCTCTAGAATAACCAAG--TCCTCACGTAACCTGGTCTATATTG
+otoGar1.scaffold_334.1-359464       TGGGCCCCCCTGACCTGGCCAAG--TCCTCACTCACCCGGGTTTACACTG
+
+mm9.chr10                           ACCACTTACCTGAATTG--AATTGGGAGGAGAGAAAGAAGCCAGTTTCCC
+hg18.chr6                           ACCACCTCTCTTGACCGCTGATCTTGGGGAG----------CACCTTGCT
+panTro2.chr6                        ACCACCTCTCTTGACCGCTGATCTTGGGGAG----------CACCTTGCT
+ponAbe2.chr6                        ACCACCTGTCTTGACTGTTGATCTTGGGGAG----------CACCTTGCT
+otoGar1.scaffold_334.1-359464       ACCACC-------------AAACTTGGGGAG----------CCCTTTGCT
+
+mm9.chr10                           AGAGAGGGAAAAGGAAAAGCTCGACAC
+hg18.chr6                           -GAGGGCCAATGGAAAATGCTGGAAGC
+panTro2.chr6                        -GAGGGCCAATGGAAAATGCTGGAAGC
+ponAbe2.chr6                        -GAGGGCCAATGGAAAATGCTGGAAGC
+otoGar1.scaffold_334.1-359464       -GAGGGGCAACAGCAAACACGGGAAGC
+
+
+mm9.chr10                           --TGTGGGCTCCTCACTTTCCTG-TCTCAGGTGTGTCTGTGAGTTTCGGT
+hg18.chr6                           CATGAGCCCTCCTTGTATCCCTGATCTTAGATGGGTCTATGGTTTTTGGT
+panTro2.chr6                        CATGAGCCCTCCTTGTATCCCTGATCTTAGATGGGTCTATGGTTTTTGGT
+ponAbe2.chr6                        CATGAGCCCTCCTTGTATCCCTGATCTTAGATGGGTCTATGGTTTTTGGT
+otoGar1.scaffold_334.1-359464       CACATGCACTCATCGTGTCTCTG-TCTTAGGCGTAGCCCTGGTTTCTGGG
+cavPor2.scaffold_290371             --TGCGTATCCCTTGCGATCCTGATCCGAGGTGTGGCTGTGGTTTTTGGT
+
+mm9.chr10                           GAGTGTCGTACAGGAAAGAGGGTGAAAACTCAGTCTGAGCTGTCATTCTT
+hg18.chr6                           GGAAGCCATCCAG-AAACAGCCTCAAAATCCAGTCTGAGTTTTCATTCCT
+panTro2.chr6                        GGAAGCCATCCAG-AAACAGCCTCAAAATCCAGTCTGAGTTTTCATTCCT
+ponAbe2.chr6                        GGAAGCCATCCAG-AAACAGCCTCAAAATCCAGTCTGAGTTGTCATTCCT
+otoGar1.scaffold_334.1-359464       GAAAGCTGTCCAGAAAACCACCTGAAAACCCAGTCTCTGTGGTCATTGCT
+cavPor2.scaffold_290371             GAAAGCCATCCAGAAAAGAACTTCAAAACCTAGTCTAAATTGTTATTCCC
+
+mm9.chr10                           GCCAGCTATGTTGCTTTCCTGTCCTCTTTAGC-------TTATCTCAGGC
+hg18.chr6                           GTCAATCAATCCTCTTATTTTTTTCCTTCACTACC----TTATTTCTAGC
+panTro2.chr6                        GTCAATCAATCCTCTTATTTTTTTCCTTCACTACC----TTATTTCTAGC
+ponAbe2.chr6                        GTCAATCAATCCTCTTGTTTTTTTCCTTCATTACC----TTATTTCTAGC
+otoGar1.scaffold_334.1-359464       GGCAATCAGTCC-CTTATTTTTAGGTTGCCTTG------TTATTTCAGGT
+cavPor2.scaffold_290371             TCCTGCCAATCCTCTTGTTTTTACCCCATAGTGACCTCGTTATTGCAA--
+
+mm9.chr10                           AACCTATCTTATTTTGTT-TGCTTTC--AGAAGGCAAG---CGAtgtgtg
+hg18.chr6                           AACACATCTTAC-TTATTCTGTTTTCCCAGAAGA-------TGAGTTGTG
+panTro2.chr6                        AACACATCTTAC-TTATTTTGTTTTCCCAGAAGA-------TGAGTTGTG
+ponAbe2.chr6                        AACATATCTTAC-TTATTTTGTTTTCCCAGAAGA-------TGAGTTGTG
+otoGar1.scaffold_334.1-359464       GACATAGCTTACTTTGTTTTGTTTTCCCAGAAGACAAGTGGTGACTTGTG
+cavPor2.scaffold_290371             AACATatcttattttgttctgttttcctggaagataaa---tgaattttg
+
+mm9.chr10                           tgtgtgtgtgtgtgtgtgtgtgtgtatgtgtgtgtgcgtgCGCGCGCGCG
+hg18.chr6                           TATGAGTTTTGG--------------------------------------
+panTro2.chr6                        TATGAGTTTTGG--------------------------------------
+ponAbe2.chr6                        TATGAGTTTTGG--------------------------------------
+otoGar1.scaffold_334.1-359464       TATGAGTTTTGA--------------------------------------
+cavPor2.scaffold_290371             tgtgaGTTTGAG--------------------------------------
+
+mm9.chr10                           AGCACATGTGCATGCATGCGCACTCGTG
+hg18.chr6                           ----------------------------
+panTro2.chr6                        ----------------------------
+ponAbe2.chr6                        ----------------------------
+otoGar1.scaffold_334.1-359464       ----------------------------
+cavPor2.scaffold_290371             ----------------------------
+
+
+mm9.chr10                           TTTGCATAGACTCTCTTGGCAACAAAATAACGTTATATTTAAACATCCAT
+cavPor2.scaffold_290371             -----GTGGGATGTCTTGACAGCTAAATAGTcttatatttaagcatttat
+otoGar1.scaffold_334.1-359464       -----GTGGACATTCGTGACAGGCAAATAGTGTTCTATTTAAACATTTGT
+ponAbe2.chr6                        -----GTGGACTATCCTGACAACCAAATAGCGTTATATTTAAACATTTAT
+panTro2.chr6                        -----GCGGACTATCTTGACAACCAAATAGCGTTATATTTAAACGTTTAT
+hg18.chr6                           -----GTGGACTATCTTGACAACCAAATAGCGTTATATTTAAACGTTTGT
+echTel1.scaffold_288249             TTGGGGTGGATGCTCTTGGCAGTCACACAGTGCTCTATTTTAGGATTTAC
+
+mm9.chr10                           TAAAATAATGCACTTAGCACAGCCTGCCCTGAGGGAT----GAACACT--
+cavPor2.scaffold_290371             GAAAATAATGAGGTTATCATGGTTCGCTCTAGTAGCTCTGAGACCTTT--
+otoGar1.scaffold_334.1-359464       TGAAATGATAAACTTAGCTCAGCC--CCTT---AGAAGTG-AGAGGCT--
+ponAbe2.chr6                        GAAAATAATAAGCTTAGCATAACCTGCCTTGACAGATGTG-GTATGC---
+panTro2.chr6                        GAAAATAATAAGCTTAGCATAACCTGCCTTGACAGATGTG-GTATGC---
+hg18.chr6                           GAAAATAATAAGCTTAGCATAACCTGCCTTGACAGATGTG-GTATGC---
+echTel1.scaffold_288249             TAGAACAATGAGTTTGTCATAACT-GCCTCCTCCCAAGTG-GGAAGCTGA
+
+mm9.chr10                           ATTGTTAA-AGAACTATTCCGCTAAGGCAGCAACCTCTGGATCTTCAGCA
+cavPor2.scaffold_290371             ATTGTCAGCAAAGCTGTTTAGC--AGGAGGCAACTTCAGGTTCCGTGGGA
+otoGar1.scaffold_334.1-359464       ACTGTCAGGGAAGCGGTTTTGCG-GAGCAGCAGCCTCAGGATCTGTGGGA
+ponAbe2.chr6                        ----CTAGTGAAGTTGTTTAGCT-AAGGCTCAATCTCAGGATCTGTGGGA
+panTro2.chr6                        ----CTAGTGAAGTTGCTTAGCT-ATGGCTCAATCTCAGGATCTGTGGGA
+hg18.chr6                           ----CTAGTGAAGTTGCTTAGCT-ATGGCTCAATCTCAGGATCTGTGGGA
+echTel1.scaffold_288249             AGCACCAA-GTACTGACTCAGC--AGTCCCTGACCTCA-CATCCATGGAA
+
+mm9.chr10                           TTCTGGCGCCATCTGCTGGTCATAT
+cavPor2.scaffold_290371             TTCTAGTGCCATCTGCTGGTCATAT
+otoGar1.scaffold_334.1-359464       TTTTAGCGCCATCTGCTGGTCACAG
+ponAbe2.chr6                        CTCTAATGCCATCTGCTGGTCACAT
+panTro2.chr6                        CTCTAATGCCATCTGCTGGTCACAC
+hg18.chr6                           CTCTAATGCCATCTGCTGGTCACAC
+echTel1.scaffold_288249             ATCTAGTGACATCTGCTGGACACAT
+
+
+mm9.chr10                           AGATGTCTGCTGTGGAGA-------CCTGGCCAACTTTG----CTT--TC
+cavPor2.scaffold_290371             TGACGTCTGCAGCCACGG-------GCTGGCTAACTCCA--GTCTT--CC
+hg18.chr6                           TGATGGCTGCTGCCATCA---CTTTCTTGGCCTACTCTGCTGTCTT--AC
+panTro2.chr6                        TGATGGCTGCTGCCATCA---CTTTCTTGGCCTACTCTGCTGTCTT--AT
+ponAbe2.chr6                        TGATGGCTGCTGCCATCA---CTTTCTTGGCCTACTAGGCCGTCTT--AC
+otoGar1.scaffold_334.1-359464       GGACGGCCGCCGCCACCACCGCTTTCCCTGCCAACTCCACCGTCTTAAAT
+tupBel1.scaffold_114895.1-4984      TGATGGCTACAGCTGTCA---CTTTCTTGGACCACTCAGCTCTCTC--AA
+
+mm9.chr10                           TTC-----AAAAAGGCAACAGAAGGTAATCAGTTGAATGCCCACCA----
+cavPor2.scaffold_290371             GCG-----CTAAAGCCGAC--------------------CACACCACATA
+hg18.chr6                           TCT-----ATAAGACTAAC--------------------AGGACCCCATA
+panTro2.chr6                        TCT-----ATAAGACTAAC--------------------AGGACCCCATG
+ponAbe2.chr6                        TCT-----ATAAGACTAAC--------------------AGGACCCCATA
+otoGar1.scaffold_334.1-359464       TCTGCAACAAAAGAAAAAT--------------------CGGACCCTGCA
+tupBel1.scaffold_114895.1-4984      C-------GAAAGACAAAC--------------------TGGATCCTCCG
+
+mm9.chr10                           -TTAGGAAGGCGACCTCTAGTGCACAAACCTTGAC-ATTTTCCCTTTTAA
+cavPor2.scaffold_290371             GTGGGGAGAGTGACCTCTAGCGGAAAagctttgca-atttttttcttc--
+hg18.chr6                           GTTAGGAGAGCGACCTCTAGCGAGCAGGCCTTGGC-ATTTTTCTTTTTAA
+panTro2.chr6                        GTTAGGAGAGCGACCTCTAGCGAGCAGGCCTTGGA-ATTTTTCTTTTTAA
+ponAbe2.chr6                        GTTAGGAGAGCGACCTCTAGCGAGCAGGCCTTGGA-ATTTTTCTTTTTAA
+otoGar1.scaffold_334.1-359464       GTTACTAGAGCGACCTCTGGTGAACAAGCCTTGGATTTTTTTCTTTTTAA
+tupBel1.scaffold_114895.1-4984      G---GAGAGGAGACCTCTAGTGAGCAAACCTTGGA-ATTTTTCTTTAAAA
+
+mm9.chr10                           TGGAA-TTTAACAGAAGTTCAGGATGTTCTTTGGGTAATTTACAATT---
+cavPor2.scaffold_290371             --gAC-TCTGTCAG--GTTCAGAATTCCATTTAAACAATTTacagct---
+hg18.chr6                           TTGAA-TTCATAAA-GGCTTAGAATGCCATTTAGACAATTTGTAATG---
+panTro2.chr6                        TTAAA-TTCATAAA-GGCTTAGAATGCCATTTAGACAATTTGTAATG---
+ponAbe2.chr6                        TTGAA-TTCATAAA-GGCTTAGAATGCCATTTAGACAATTTGTAATG---
+otoGar1.scaffold_334.1-359464       TTGAATTTTACAAC-GGCTCAAAATGCAAGTTAGACAATTCATAGTGTAT
+tupBel1.scaffold_114895.1-4984      CAGAA-TTTATAAA-GGTTCA-AATGCCATTTAGACAACTTATAATT---
+
+mm9.chr10                           A----GGGGGCAAAAATCAAAAGTATTTCGAGCATATCAAAACTGTTAGC
+cavPor2.scaffold_290371             a----gaaaaggaaaagcagaggCATTT----------------------
+hg18.chr6                           GTGGGGGGAGGTAAGAGTAT------------------------------
+panTro2.chr6                        GTGGGGGGAGGTAAGAGTAT------------------------------
+ponAbe2.chr6                        GTGGGGGGAGGTAAGAGTATAAATATTGAATGTAT-TCAAACCTGTCAAT
+otoGar1.scaffold_334.1-359464       GTGTGGGGACCTGAGAGTGCAAATATTGCTGGCAT-TCAGCCTTGTTA--
+tupBel1.scaffold_114895.1-4984      A-------------------------------------------------
+
+mm9.chr10                           TATG
+cavPor2.scaffold_290371             ----
+hg18.chr6                           ----
+panTro2.chr6                        ----
+ponAbe2.chr6                        GATG
+otoGar1.scaffold_334.1-359464       ----
+tupBel1.scaffold_114895.1-4984      ----
+
+
+mm9.chr10                           agccaggcgtggtggcacacacctttactcccagcatttggggggcagag
+
+mm9.chr10                           gcaggtggatctgtgagtttgaggccagcctggtctacagagggagtctc
+
+mm9.chr10                           aggacagccagagctacacagaaataacctgcctagaaaaacaaaacaaa
+
+mm9.chr10                           acaaaacatcaaaactcaaaacaaaTAAAAAAAATAAAAAACCCAACCTA
+
+mm9.chr10                           AACCAAATAACAAAACACT
+
+
+mm9.chr10                           TCCAAAATGGTTAGCTATGCCCAACTCCTTTCACTCCAAGAAAATATCCT
+panTro2.chr6                        TTCAAACCTGTCAATGATGTTCAACTCTTTTCACTGTGGATAAAGATCTT
+hg18.chr6                           TTCAAACCTGTCAATGATGTTCAACTCTTTTCACTGTGGATAAAGATCTT
+ponAbe2.chr6                        ---------------------CAACTCTTTTCACTGTGGATAAAGATCTT
+
+mm9.chr10                           AACCATGTAAGAGAGCTAGCCTGTTGGTGGCAGCCAAGCCTGATGGTGGC
+panTro2.chr6                        CTAGATGCAATAGAATTAGATT----------------------------
+hg18.chr6                           CTAGATGCAATAGAATTAGATT----------------------------
+ponAbe2.chr6                        CTAGATGCAATAGAATTAGATT----------------------------
+
+mm9.chr10                           AGACTAGATTGATGGTGCCAGACTACTTTATGGCTGTATCATTTTCCATT
+panTro2.chr6                        --------TTGGCGATTACATCCTATTTTATGGGTGTATCGTTTTGCATT
+hg18.chr6                           --------TTGGCGATTACATCCTATTTTATGGGTGTATCGTTTTGCATT
+ponAbe2.chr6                        --------TTGGCGATTACATCCTATTTTATGGGTGTATCGTTTTGCATT
+
+mm9.chr10                           CATGTGTTGTGTTATA
+panTro2.chr6                        CATGGGCTGTTTGATA
+hg18.chr6                           CATGGGCTGTTTGATA
+ponAbe2.chr6                        CATGGGCTGTTTGATA
+
+
+mm9.chr10                           CCTTCTTAAGAACACTAGACTCAggactggggagatggctcagcagttaa
+
+mm9.chr10                           gaatcggtgctgttaagagtgggagacaagtttggttcccagctcccaca
+
+mm9.chr10                           ttggtcagctcacagccacccgtaactctaagatggtacacacctttaat
+
+mm9.chr10                           cccaggagacagaggcaatcagatctgagttcaagattcagcctgagaca
+
+mm9.chr10                           gagcatgttccaaattcaggcatggtgggtcatacctttaatatgggaca
+
+mm9.chr10                           taccttctgctggaggcctacctaaggacaacggagaaaggaagtattcg
+
+mm9.chr10                           ttcttctcctgcttgcacttacttgccagcgcatctactggaacccactt
+
+mm9.chr10                           cttcaggattccagcttatacaggagaccagctgaaatatccagcctctc
+
+mm9.chr10                           gggactgaacaagtactagagtctcagacttcccattcacagctgcccat
+
+mm9.chr10                           tgttggttggttgtactacagactgtaagtcattgtaataatttccctta
+
+mm9.chr10                           atatatagagacattatataagttctgtgactctagagaaccctgactag
+
+mm9.chr10                           tacaCGTGGCTAACTAGAAAGctctggtatgtgcttacttaatgctgagg
+
+mm9.chr10                           ttttaggcatggccacggtgctctgcttcttatgtgggtgctgggaatgc
+
+mm9.chr10                           agactcaggtcctcatgtgtatgcagcaaacacttcatacactcagctgc
+
+mm9.chr10                           ttccctaacccTATGCTTGTGTCTTATTACTAACTTGTGAAAAGCTTTGA
+
+mm9.chr10                           GTTTATTTTCTATGTTTTCAACCACTTTCTTGAGTATGCTCAGCTCGTGG
+
+mm9.chr10                           CTTTAAACTGGATTTCCCCCTAATATGTAATGACTATAAGTATTCCTTAA
+
+mm9.chr10                           ATAGGACACACTTTTGTTATACTTTTTGTTATCatataaaatatttcaaa
+
+mm9.chr10                           aaaatttttttGCTATTTTTATCTTTGAGCCATTGGTCATTTTGACGTGT
+
+mm9.chr10                           ATCTCTTGATTTTTATAGATGGTAATATTTTATGTATTGCTAGCCAATCT
+
+mm9.chr10                           CGTTTTCTTGTTTGCTTGCTTGTTTGTTTTGGTCAATGCAG
+
+
+mm9.chr10                           CCTGTACC---CTTTGGTGAGAATTTTTGTTTCAGTGTTAAAAGTTTG
+hg18.chr6                           CCTATACCTTTCTTTTATGAGAA-TTTTGTTTTAATCCTAAAC-TTTT
+panTro2.chr6                        CCTATACCTTTCTTTTATGAGAA-TTTTGTTTTAATCCTAAAC-TTTT
+calJac1.Contig6394                  CCTATACCTTTCTTTCATGAGAA-TTTTGTTTGAATCCTAAAC-TTTT
+loxAfr1.scaffold_75566              ------------TTTGGTTAGAA-TTATGCTTTAATTCAAAAC-TTCC
+
+
+mm9.chr10                           GGGAGCATAAAACTCTAAATCTGCTAAATGTCTTGTCCCT-TTGGAAAGA
+hg18.chr6                           GGGATCATAAACCATTTAATCTGTGAAATATCTAATCTTT-TGGGAAATA
+panTro2.chr6                        GGGATCATAAACCATTTAATCTGTGAAATATCTAATCTTT-TGGGAAATA
+calJac1.Contig6394                  GGGATCATAAGCCATTTAATCTGTGAAATGTGAAATCTTT-TGGGAAACA
+otoGar1.scaffold_334.1-359464       GGAAGCATAAACT-TTTAATCTATGAAATATCAAATCACT-TGGGCAATA
+loxAfr1.scaffold_75566              GGGAGTATAAACCATTTAGTCTGCGAAATGCCAAATCTTCAGGGGAAAAA
+
+mm9.chr10                           GTTG
+hg18.chr6                           GTGG
+panTro2.chr6                        GTGG
+calJac1.Contig6394                  GTGG
+otoGar1.scaffold_334.1-359464       GCTG
+loxAfr1.scaffold_75566              GCTG
+
+
+mm9.chr10                           AAGTTCCCTCCATAATTCCTTCCTCCCACCCCCACA
+calJac1.Contig6394                  AAATGTA-----TGATCTCCCCATCCTGCCCTG---
+otoGar1.scaffold_334.1-359464       AGATTTC-----TGATGCCCTCACCCCCTCCGTGCA
+loxAfr1.scaffold_75566              AGGCTTA-----TG----CCACCCCCCACCCCCACA
+
+
+mm9.chr10                           TCCCATGTCCACCCTGA
+
+
+mm9.chr10                           GTTTCAGGGGCAGCTCGCTG----------------TTAGCAG-CTAAGG
+otoGar1.scaffold_334.1-359464       ---TCGGGAACAAGTTGCAGTCATGGATAT-TTGGTTTAGATGGTTTAGG
+calJac1.Contig6394                  -------------------GCCATGAATAT-----TTTAGAC-ATGCAGG
+hg18.chr6                           --------------------------------------------aGCAGG
+panTro2.chr6                        --------------------------------------------aGCAGG
+ponAbe2.chr6                        --------------------------------------------aGCAGG
+tupBel1.scaffold_114895.1-4984      ------------------------------------TTAGAAA-TGTGGG
+cavPor2.scaffold_216473             ------------------------------------TTAGAAA-TTTAGG
+loxAfr1.scaffold_75566              GTT-TGAGAGCAAGTTTAGGACATCAATACGTTGTTTCAGAAA-TTGAGG
+
+mm9.chr10                           CATGGTGTCTCTCA
+otoGar1.scaffold_334.1-359464       TGGGGTGTATTTCT
+calJac1.Contig6394                  TGTGGCGTGTTTCT
+hg18.chr6                           TGTGGCATGTTTCT
+panTro2.chr6                        TGTGGCATGTTTCT
+ponAbe2.chr6                        TGTGGCATGTTTCT
+tupBel1.scaffold_114895.1-4984      TGTGGCGCATCGCT
+cavPor2.scaffold_216473             TGTGGCATGGTTC-
+loxAfr1.scaffold_75566              TTTGCTGTATCTCt
+
+
+mm9.chr10                           C--TTGGGA---------TGCTTTATAGTGGAAATGGAAAGCA----A-T
+loxAfr1.scaffold_75566              tatttttgatttttttttttttttaaaGCTGAAGTGAAAGTCACACTG-T
+cavPor2.scaffold_216473             ---TTTGGA---------TA-TTCACAGTTGGAATGAAAGGCACCCTG-T
+tupBel1.scaffold_114895.1-4984      CCTTTTGGA---------TTTTTTACAGCTGAAATAAAAAGCACACTG-T
+ponAbe2.chr6                        CCTTTTGGA---------CTTTTTATAGCTGAAATGGAAGGCACACTG-T
+panTro2.chr6                        CCTTTTGGA---------CTTTTTATAGCTGAAATGGAAGGCACAATA-T
+hg18.chr6                           CCTTTTGGA---------CTTTTTATAGCTGAAATGGAAGGCACAATA-T
+calJac1.Contig6394                  TCTTTTGTA--------TTTTTTTATAGCTGAAAAGGAAGGCACACTG-T
+otoGar1.scaffold_334.1-359464       TATTTTGGG--------CTTTTTTATGGGTGAAATGAAAGGCACACTG-T
+ornAna1.chr2                        --CCTTGGA---------AATGTTACTGCAAAAGTGAAAGGCTCATTGTT
+
+mm9.chr10                           TTATTTAGATCTTAAATCATTTT-GAAGGTTAATAAAATGACCATATTAA
+loxAfr1.scaffold_75566              TTCTTTTGGCCATAAATCCCTTT-GAAGTATAATGAAATTTTCACTTTAA
+cavPor2.scaffold_216473             TTCTTTAGGACTTAAATCCTTTT-GAAGTATAATAAAATGATCACATTAA
+tupBel1.scaffold_114895.1-4984      GTCTGTAGGTCTTAAATCCTTTT-GAAGTATAATAAAATGATCACTTTAC
+ponAbe2.chr6                        TTCTTTAGGTCTTAAATACTTTT-GAAGTATAATAAAACGATCACTTTAA
+panTro2.chr6                        TTCTTTAGGTCTTAAATACTTTT-GAAGTATAAAAAAATGATCACTTTAA
+hg18.chr6                           TTCTTTAGGTCTTAAATACTTTT-GAAGTATAAAAAAATGATCACTTTAA
+calJac1.Contig6394                  CTCTTTAGGTCTTAAATACGTTT-GAAGCATAATAAAATGATCACTTTCA
+otoGar1.scaffold_334.1-359464       TTTTTTAGGACTTAAATCCTTTT-GAAGTATAATAAAACGATTACTTTAC
+ornAna1.chr2                        TTCTTTCTATCTTAAGCCTTTTTAAAAGTGTATTGTAATTATGATCTTCA
+
+mm9.chr10                           TATTCCCATGAACAAAGCCTTCATTT----TTAAAATATTGCATCCTATA
+loxAfr1.scaffold_75566              TATTCCTGTGAACAATACCCTCATTT-AAAAAAAAAAATTGGGTTTTATA
+cavPor2.scaffold_216473             TATTCCTACTAACAATGCCCTCATTT----AAAAAAGTTTGGATTTTGTA
+tupBel1.scaffold_114895.1-4984      TATTCCTGTGAACAATGCCCTCATTT---TACAAAATCTGGGATTTTATA
+ponAbe2.chr6                        TACTCCTGTGAGCAATGTCCTCTTTT---AAAAAAATCCTGGATTTTATA
+panTro2.chr6                        TACTCCTGTGAACAATGCCCTCTTTTT--AAAAAAATCCTGGATTTTATA
+hg18.chr6                           TACTCCTGTGAACAATGCCCTCTTTTT-AAAAAAAATCCTGGATTTTATA
+calJac1.Contig6394                  TACTCCTGTGAATAATGCCCTCCTTTTAAAAAGAAATCTTGGATTTTATA
+otoGar1.scaffold_334.1-359464       TGTTCCTGTGAACAATGCCCTCATTT---AAAAAAATCTTGGATTTTATA
+ornAna1.chr2                        TTTCCCCGCTAACAAAGCCCTCATTA----AAATATCTTTGTATTTTA-A
+
+mm9.chr10                           ATACACATAA-ATCTTGT-----TCTCGtttttatttttt----tatt-t
+loxAfr1.scaffold_75566              CCACACACAGCATCTTTTCAAAATCTCATTCCC-TTTTTAAGCAGGTG-T
+cavPor2.scaffold_216473             CCACATACAGCATATTTCCAACATCTCATTTCCTTCTTCTGGCAGGTT-T
+tupBel1.scaffold_114895.1-4984      CCACGTACAGCATATTTCCAAAATCTCATTTCC-TTTTTTGGCAGGTT-T
+ponAbe2.chr6                        CCACATGCAGCATATTTCTGAAATCTCATTTCC-TTTCTTGGCAGGTT-T
+panTro2.chr6                        CCACATGCAGCATATTTCTGAAATCCCATTT-------------------
+hg18.chr6                           CCACATGCAGCATATTTCTGAAATCTCATTT-------------------
+calJac1.Contig6394                  TCACACGCAGCATATTTCTGAAATCTCATTTCC-TTTCCTGGCAGGTT-T
+otoGar1.scaffold_334.1-359464       CCAGATCCAGCATATTTCCAAAATCTCATTT-C-CTTTTTGGCGGGTT-T
+ornAna1.chr2                        CGACATACAGCCCATTTCCAAAATCTTAGTTCC-TTTTTGGGTGCATTGT
+
+mm9.chr10                           at-----------------------ttattttttttt------------c
+loxAfr1.scaffold_75566              CT---TAGCAAGTTCACTCTCTCTCTCTTTTTTCATTGACTTTGGCCAAA
+cavPor2.scaffold_216473             At-----------------------tagtctctcttt------------c
+tupBel1.scaffold_114895.1-4984      AT---TAGCAAGTTCCCT-------TTTTGTCTATTG------------A
+ponAbe2.chr6                        ATTTATAGCAAGTTATCTC------TCTCTCTTATTT------------A
+panTro2.chr6                        --------------------------------------------------
+hg18.chr6                           --------------------------------------------------
+calJac1.Contig6394                  ATTAATAGCAAGTTCTCTC------TCTTATTTATTT------------A
+otoGar1.scaffold_334.1-359464       GT---TAGCAAGTTCTCTCCGGCTTTCTTCTTCTTTT------------T
+ornAna1.chr2                        AT---TAAC----------------CGTTCTCTCTTT-------------
+
+mm9.chr10                           ttt
+loxAfr1.scaffold_75566              TCT
+cavPor2.scaffold_216473             tct
+tupBel1.scaffold_114895.1-4984      CTT
+ponAbe2.chr6                        CTT
+panTro2.chr6                        ---
+hg18.chr6                           ---
+calJac1.Contig6394                  TTT
+otoGar1.scaffold_334.1-359464       CTC
+ornAna1.chr2                        ---
+
+
+mm9.chr10                           ccatttt----------ttattaggtatttagctcatttacatttccaat
+loxAfr1.scaffold_75566              TCACTTCTA---------------------------------------CC
+cavPor2.scaffold_216473             ctgtgtc----------t--------------------------------
+tupBel1.scaffold_114895.1-4984      T-------------------------------------------------
+ponAbe2.chr6                        TTTTGCCTTTTC--------------------------------------
+calJac1.Contig6394                  TGCTTTTTCTCAAATCTCCACT----------------------------
+otoGar1.scaffold_334.1-359464       TTTTTTCTATT------------GACTTTTGCCAAATATTCACTTCCA--
+
+mm9.chr10                           gctatac----caaaagtcccc
+loxAfr1.scaffold_75566              TCCATTCCTTACAAAAGTTCTC
+cavPor2.scaffold_216473             ----------------------
+tupBel1.scaffold_114895.1-4984      ----------------------
+ponAbe2.chr6                        ----------------------
+calJac1.Contig6394                  ----------------------
+otoGar1.scaffold_334.1-359464       ----------------------
+
+
+mm9.chr10                           catacccacccacccccactcccctacccgcccactccccctttttggcc
+
+mm9.chr10                           ctggcgttcccctgttctggggcatataaagtttgtgtgtccaatgggcc
+
+mm9.chr10                           tctctttccagtgatggccgactaggccatcttttgatacatatgcagct
+
+mm9.chr10                           agagtcaagagctccggggtactggttagttcataatgttgatccaccta
+
+mm9.chr10                           tagggttgcagatccctttagctccttgggtactttctctagctccccca
+
+mm9.chr10                           ttgggagccctgtgatccatccattagctgactgtgggcatccacttctg
+
+mm9.chr10                           tgtttgctaggccccggcatagtctcacaagagacagctacatctgggtc
+
+mm9.chr10                           ctttcgataagatcttgctagtgtatgcaatggtgtcagcgtttggatgc
+
+mm9.chr10                           tgattatggggtagatccctggataaggcagtctctacatggtccatcct
+
+mm9.chr10                           ttcatctcagctccaaactttgtctctgtaactccttccaagggtgtttt
+
+mm9.chr10                           gttcccacttctaaggaggggcatagtgtccacacttcagtcttcatttt
+
+mm9.chr10                           tcttgagtttcatgtgtttaggaaattgtatcttatatcttgggtatcct
+
+mm9.chr10                           aggttttgggctaatatccacttatcagtgagtacatattgtgtgagttc
+
+mm9.chr10                           ctttgtgaatgtgttacctcactcaggatgatgccctccaggtccatcca
+
+mm9.chr10                           tttggctaggaatttcataaattaattctttttaatagctgagtagtact
+
+mm9.chr10                           ccattgtgtagatgtaccacattttctgtatccattcctctgttgagggg
+
+mm9.chr10                           catctgggttctttccagcttctggctattataaataaggctgctatgaa
+
+mm9.chr10                           catagtggagcatgtgtccttcttaccagttggggcatcttttggatata
+
+mm9.chr10                           tgcccaggagaggtattgctggatcctccggtagtactatgtccaatttt
+
+mm9.chr10                           ctgaggaaccgccagacggatttccagagtggttgtacaagcctgcaatc
+
+mm9.chr10                           ccaccaacaatggaggagtgttcctctttctccacatcctcgccagcatc
+
+mm9.chr10                           tgctgtcacctgaatttttgatcttagccattctgactggtgtgaggtgg
+
+mm9.chr10                           aatctcagggttgttttgatttgcatttctctgatgattaaggatgttga
+
+mm9.chr10                           acatgttttcaggtgcttctctgccattcggtattcctcaggtgagaatt
+
+mm9.chr10                           ctttgttcagttctgagccccattttttaatggggttatttgattttctg
+
+mm9.chr10                           aagtccaccttcttgagttctttatatatgttggatattagtcccctatc
+
+mm9.chr10                           tgatttaggataggtaaagatcctttcccaatctgttggtggtctctttg
+
+mm9.chr10                           tgttattgacggtgtcttttgccttgcagaaactttggagtttcattagg
+
+mm9.chr10                           tcccatttgtcaattctcgatcttacagcacaagccattgctgttctgtt
+
+mm9.chr10                           caggaatttttcccctgtgcccatatcttcaaggcttttccccactttct
+
+mm9.chr10                           cctctataagtttcagtgtctctggttttatgtggagttctttgatccat
+
+mm9.chr10                           ttagatttgaccttagtacaaggagataagtatggatcgattcgcattct
+
+mm9.chr10                           tctacatgataacaaccagttgtgccagcaccaattgttgaaaatgctgt
+
+mm9.chr10                           ctttcttccactggatggttttagctcccttgtcgaagatcaagtgacca
+
+mm9.chr10                           taggtgtgtgggttcatttctgggtcttcaattctattccattggtctac
+
+mm9.chr10                           ttgtctgtctctataccagtaccatgcagtttttaccacaattgctctgt
+
+mm9.chr10                           agtaaagctttaggtcaggcatggtgattccaccagaggttcttttatcc
+
+mm9.chr10                           ttgagaagagtttttgctatcctaggttttttgttattccagatgaattt
+
+mm9.chr10                           gcaaattgctccttctaattcgttgaagaattgagttggaattgtgatgg
+
+mm9.chr10                           ggattgcattgaatctgtagattgcttttggcaagatagccatttttaca
+
+mm9.chr10                           atgttgatcctgccaatccatgagcatgggagagctttccatcttctgag
+
+mm9.chr10                           atcttctttaatttctttcttcagagacttgaagtttttatcatacagat
+
+mm9.chr10                           ctttcacttccttagttagagtcacgccgagatattttatattatttgtg
+
+mm9.chr10                           actattgagaagggtgttgtttccctaatttctttctcagcctgtttatt
+
+mm9.chr10                           ctttgtgtagagaaaggccattgacttgtttgagttaattttatatccag
+
+mm9.chr10                           ctacttcaccgaagctgtttatcaggtttaggagttctctggtggaattt
+
+mm9.chr10                           ttagggtcacttatatatactatcatatcatctgcaaaaagtgatatttt
+
+mm9.chr10                           gacttcctcctttccaatttgtatccccttgatctccttttgttgtcgaa
+
+mm9.chr10                           ttgctctggctaatacttcaagtactatgttgaaaaggtagggagaaagt
+
+mm9.chr10                           gggcagccttgtctagtccctgattttagtgagattgcttccagcttctc
+
+mm9.chr10                           tccatttactttgatgttggctactggtttgctgtagattgcttttatca
+
+mm9.chr10                           tgtttaggtatgggTGTTCTCG
+
+
+mm9.chr10                           TTTTTATTTGCAGGTTTCTTTAC----AGTTCTCTTTCATTCTTCTCCTC
+hg18.chr6                           CCTTTCTTGGCAGGGTTATTTATAGCAAGTTATCTCTCTCTCTTA-----
+panTro2.chr6                        CCTTTCTTGGCAGGGTTATTTATAGCAAGTTATCTCTCTCTCTTA-----
+
+mm9.chr10                           TTTTCTTCTGTTGACCTTTATCAGATTTCTGCTTTAACC
+hg18.chr6                           -TTTATTTTTTTGCCTTTTCCCAAATCTCCACTTCCACC
+panTro2.chr6                        -TTTATTTTTTTGCCTTTTCCCAAATCTCCACTTCCACC
+
+
+mm9.chr10                           ACCACAGACCTTCTGTTTAGTCCAAAGGACGCAAATTATGTATCCACTTt
+
+mm9.chr10                           agtaggaggctgacccgcagcctacatgaaccaggtatttctggaaggca
+
+mm9.chr10                           ggctggggttgaaagagaaattagatggtgagaaaagaataatgaggcca
+
+mm9.chr10                           agacaaatttttctcttatcaaggcccaagagagtttactaagagactat
+
+mm9.chr10                           gcttaaaagggggaaggcccatcccccccccccctcgcgccagtctatcc
+
+mm9.chr10                           ttggtgctttgtcaccatgccatcagcacttggtcggcaggtagcagaat
+
+mm9.chr10                           ctcagggcagttgacacttcaaaagaaaccagccaagtcagaaagctgca
+
+mm9.chr10                           ctgcaggagacctgcactcagtggtgacaaggtctgtaccagcctgcttc
+
+mm9.chr10                           aggctgggggaggctaca
+
+
+mm9.chr10                           ATCCACAAAAGAGAC-----AAAGAAGAAAACCAAAAGAAAAGATTGTAG
+panTro2.chr6                        ACCTACAAAGG---------AAAACAATTAACCATAAGAAAAGTTTGTAC
+hg18.chr6                           ACCTACAAAGG---------AAAACAATTAACCACAAGAAAAGTTTGTAC
+ponAbe2.chr6                        -------------ACAAAGGAAAACAATTAACCATAAGAAAAGTTTGTAC
+
+mm9.chr10                           CTTAAAACAATTCCATTTTATTGA
+panTro2.chr6                        CATAAAACAATTTTATTTTATTGA
+hg18.chr6                           CATAAAACAATTTTATTTTATTGA
+ponAbe2.chr6                        CATAAAACAATTTTATTTTATTGA
+
+
+mm9.chr10                           AGGA-CAAAATAATACAGAtttttttttttttttttttttGCAGTACTGG
+hg18.chr6                           ATAATCCAATCAATATATAT---------------------CAGAACCTG
+panTro2.chr6                        ATAATCCAATCAATATATAT---------------------CAGAACCTG
+
+mm9.chr10                           AAATGGAATGAATGTCCCTCACAATCACTATCAAGGTCCCTATCAAGGCA
+hg18.chr6                           GCTCCCAATG-----TTCTGATAGTCATTATGAA----------AAAGAA
+panTro2.chr6                        GCTCCCAATG-----TTCTGATAGTCATTGTGAA----------AAAGAa
+
+mm9.chr10                           ATCACTCTGTCACCGAGCTA-CAGCCCCAGC
+hg18.chr6                           TTTACACATATATAGATTTATTAGGTATATG
+panTro2.chr6                        tttacacatatatagatttattaggtatatg
+
+
+mm9.chr10                           TT-CAAACATGCATACATGCATTCATGTCTCATAA-TAATTATTAACA-T
+panTro2.chr6                        -tataaatgtacaaatatatgtgtatgtCTCATAAATAATTATTAACAGT
+hg18.chr6                           -TATAAACGTACAAATATATGTGTATGTCTCATAAATAATTATTAACAGT
+otoGar1.scaffold_334.1-359464       TT-TATACATGTATGTGTAAATGTAGGTCCTGTAAGTAATTATTAACATT
+ponAbe2.chr6                        ---taaatgtacaaatatatgtgtatgtgtcataaataATTATTAACAGT
+
+mm9.chr10                           TGTCTTAGGCCAGAGGCTCGACTGCCCCAAAGCAATCCACT-------TA
+panTro2.chr6                        CATCTTAGGTCAGTGGCCTGAGTGATACAAACTAAGCCATCCATATTTTA
+hg18.chr6                           CATCTTAGGTCAGTGGCCTGAATGATACAAACTAAGCCATCCATATTTTA
+otoGar1.scaffold_334.1-359464       TGTCTTAGGTTAGAGGCCCGAGTGACACAAGCTAACCCATCC------TA
+ponAbe2.chr6                        CATCTTAGGTCAGTGGCCTGAGTGATAGAAACTAAGCCATCCATATTTTA
+
+mm9.chr10                           AACTGTCCCTGAGAA-AGTCAttcctctccctaa
+panTro2.chr6                        TATTCTCTCCGGGAAGGGTCATCCTTTTCTTT--
+hg18.chr6                           TATTCTCTCCGGGAAGGGTCATCCTTTTCTTT--
+otoGar1.scaffold_334.1-359464       TCCTCCCTGTGTGAAGGGTCATCCTTTCTTCTGA
+ponAbe2.chr6                        TATTCTCTCTGGGAAGGGTCATCCTTTTCTTT--
+
+
+mm9.chr10                           tcttcatctcctcttttcctccttttttttttctcatttctctttctctt
+
+mm9.chr10                           tcttttgtccttttccttTATAGCAAGCAAGGCAAGTAGTCTCTATTTAG
+
+mm9.chr10                           AAGGCATggagagaatggggagaggaggaaaggaggagaggggaggagag
+
+mm9.chr10                           gaggggagGTAT
+
+
+mm9.chr10                           AGGGTAGGCCAAGTGCCTTGGGAAGTAGTTGTTGGTAGACTGAAAGTGTG
+canFam2.chr1                        AGAAAAGGCAAATGCCCCTGGGAGGGA-----TAGCACATTGA--GTTTA
+
+mm9.chr10                           TTC---TGAGTGTCAGTGATGTTCA-TGAGATTATCACCAGCAAGGATG-
+canFam2.chr1                        TTCACATGCGTGTAAGTGATGGATACTGAGATCCTCTCC--TAAGGATGC
+
+mm9.chr10                           -GCTGACGGGAACTG---CAAGAGGCATAGCCCTGAGTTCTAAAGGAGAG
+canFam2.chr1                        GGTTGATGGAATCAGAAGCAAATACCACCAGCCAGAACTCTAAAATGAGA
+
+mm9.chr10                           GGAAACGTCACAGAAAGGATG--------------------------CAC
+canFam2.chr1                        GGAAAGATCATGGATAGAATAGAATTGTAATATGAAATATAAAATTTCCC
+
+mm9.chr10                           TGTTTCAGCATCT
+canFam2.chr1                        TATTGAAGAATTT
+
+
+mm9.chr10                           CTGCCTTCCATTACGATTTACTGATCACTTACAACCCTCCCACA----GA
+canFam2.chr1                        CTTTTTTTCCCTGCCCATTATTACTCACTTAAAATTCTCC-ACATTGTAA
+
+mm9.chr10                           AGAGAACCTAACTTG-CTTAGGAGCATATGTACAGTTAATCAAGAC----
+canFam2.chr1                        AGGGAATTCAAATCGACTTCTAGAGATGCACACAATTTAGCAAGATCAAC
+
+mm9.chr10                           -AAAAATAAGAATGGAGACt
+canFam2.chr1                        TAAAAATAAGTATGGAAAAT
+
+
+mm9.chr10                           gtctgagttagggttttactgctgtgaacagacaccatgaccaaggcatg
+
+mm9.chr10                           tcttataaaaaaaatttaattagggctggcttacagattcagaggttcag
+
+mm9.chr10                           tgggagcatcaaggtgggggcatggcagcatccaggcaggcatggtgcag
+
+mm9.chr10                           gcagagctgagagttctacatcttcatccaaaggcttctagtggaagact
+
+mm9.chr10                           gacttccaggcacctagggtgagggtcttaagcccacacccacagtgaca
+
+mm9.chr10                           cacctattccaaccaggtcacacctattccaacaaggccatacctccaaa
+
+mm9.chr10                           tggcaccactcctggtccaagaatatacaaaccatgaca
+
+
+mm9.chr10                           GAGACCAAATG------------TGGCGCTCACG-TGAGGCCAGGAGTAA
+canFam2.chr1                        GAGGC-AAATGGAAAATGCCCCACGATGTCCAGGCTGTGTCCATGTGTGA
+
+mm9.chr10                           ATCGCACACACAGCCCATGCTTTCACCATCTGCTAGGGTGCTCTGGAGCA
+canFam2.chr1                        --CGCACATGCTGTCC----------CACCTGCTTCTATTCACTTGACAC
+
+mm9.chr10                           GGGCAGGCTTCTAACCTGG
+canFam2.chr1                        ACATAGGTCCCAAACCTGG
+
+
+mm9.chr10                           CCCCAGCATTCTGGCAGACACAGTG-AAAAGAGACAGATGGTCACTAATA
+felCat3.scaffold_205680             CCCAAGTGTTCTGATAGCTAATGTGAAAAAGAAGCATGTGCCCACCAGTA
+canFam2.chr1                        CCCAAGTGTTCTGATTGCCTCTGTGAAAAAGAAACATGGGCCCGCTAATA
+
+mm9.chr10                           AAATCTGT-ATAAATTAG-ATCTCAGAGGATGGATGGACCA
+felCat3.scaffold_205680             AGCTTTGTGGTGAACTAGAATCTCAGAGGATG---GGACTC
+canFam2.chr1                        agatttgcaatgacctagaatctcagaggatg---ggactc
+
+
+mm9.chr10                           AAGATAGATATTTAGAAGTAGCTTTTTATGTTTTTCTGATGTGTGTT
+calJac1.Contig6394                  aacaTCTATATTTTGAAATGGCTTTTCATGTTACTCTGATGTGTGTC
+panTro2.chr6                        -------atattttgaaatggcttttcatgttattctgatgTGTTTT
+hg18.chr6                           -------atattttgaaatggcttttcatgttattctgatgTGTTTT
+canFam2.chr1                        ---aggtatatttaaaaatagctcttcatgttgttctaatgtgtgtt
+felCat3.scaffold_205680             ---ACGTGTTTTTAAAAATAG-TTTTCATGTTGTTCTGATGTGTGTT
+
+
+mm9.chr10                           TGCATCATTAAGACTAGAGTTCCT---------------TTCTGTCTT--
+calJac1.Contig6394                  --CCTCATGAAGGCCCAAGTTCCTAAA-----ACATTAATTCTCTTCC--
+panTro2.chr6                        --CTTCATTAAGGCCCAAGTTCCTAAA-----ACATTCATTCTCTTCC--
+hg18.chr6                           --CTTCATTAAGGCCCAAGTTCCTAAA-----ACATTCATTCTCTTCC--
+canFam2.chr1                        --CCTCATCTAAACCCAGGTTCTTACAGGCTTATATTTTTTCTTTCTTCA
+
+mm9.chr10                           -TGCTTTCTTG--------ACAGGGCCATGCTCGGCAGTCATTCTTAGAC
+calJac1.Contig6394                  -TATTTCCTAGCTGTCTCGCCTAGGCCTTGCCCGCCAGCAATTCCC----
+panTro2.chr6                        -TCTTTTCTAG------AAAAGAGGTCTTGCCCGCCAGCAATTCCCACAT
+hg18.chr6                           -TCTTTTCTAG------AAAAGAGGTCTTGCCCGCCAGCAATTCCCACAT
+canFam2.chr1                        ACCCTTCCTCA--------TCAGTGTCTTGCCTGCCAGTCATTCCTAC--
+
+mm9.chr10                           TGCTTTTTGTTTgtttgg
+calJac1.Contig6394                  ------------------
+panTro2.chr6                        GGGTATTGG---------
+hg18.chr6                           GGGTATTGG---------
+canFam2.chr1                        ---------TTTGTTCGG
+
+
+mm9.chr10                           tttggtttggtttggttttttcaagacagggtttctttgtatagtcctag
+
+mm9.chr10                           ctgtcctggaactcactttgtagaccagactggccttgaactcagaaa
+
+
+mm9.chr10                           tctgcctgcctctgcctcccaag---------------------------
+felCat3.scaffold_205680             tctgtctctctctctctctcaaaaataaacattaaaaaaaaCCAAACAAA
+
+mm9.chr10                           -----tcctgggattaaaggcgtg
+felCat3.scaffold_205680             CAAACTCAAGTTCTTAAAGGTTTA
+
+
+mm9.chr10                           -----------------cgccaccactgccctgcCT------------TA
+ponAbe2.chr6                        -----------------CGCCAGCAATTCC------------------CA
+tupBel1.scaffold_114895.1-4984      --------------------------------------------------
+calJac1.Contig6394                  -------------------------------------------------A
+otoGar1.scaffold_334.1-359464       --------------------------------------------------
+oryCun1.scaffold_156751             --------------------CACCATTGTCTTGCCTGTC-TCAGGTCCCA
+felCat3.scaffold_205680             TGATTTCTCTTTCTCTTACTCATCAGTGTCTTGTCTTTCAGTCATTCCCA
+
+mm9.chr10                           AACTGCTCTTAA
+ponAbe2.chr6                        CATGGGTATTGG
+tupBel1.scaffold_114895.1-4984      --------TTGA
+calJac1.Contig6394                  CATGGCTACTGG
+otoGar1.scaffold_334.1-359464       -ATTGGTGTTGA
+oryCun1.scaffold_156751             TAGGGGTGTTGA
+felCat3.scaffold_205680             CATTGGTGTAGA
+
+
+mm9.chr10                           GGCAATGTCA-GGCTATGCGT------TCTAGACAGGGCACAAGAAAAGC
+oryCun1.scaffold_156751             GGCAACATCATGACCTTATGT------TCTAA----GGGACAGGAAAAGC
+hg18.chr6                           GGCAACACCATGA-TACATAT------TCAAGATAAAGTACAGGAAAAGC
+panTro2.chr6                        GGCAACACCATGA-TACATAT------TCAAGATAAAGTACAGGAAAAGC
+ponAbe2.chr6                        GGCAACACCATGA-TACATAT------TCAAGATAAAGTACAGGAAAAGC
+calJac1.Contig6394                  GGCAACACCGTGA-TACATAT------CCGAGATAAAGTACAGGAAAAGC
+otoGar1.scaffold_334.1-359464       GGCAACGCCGTGA-TCCTTGCTGTAGATAAAGACAAAGTGCAGGAAAAGC
+tupBel1.scaffold_114895.1-4984      GGCAATGTCATGA----ATGT------TCTAGATAAAGTACAGGAAAAGC
+felCat3.scaffold_205680             GACATC---ATAA-AGTACAT------TCTAGATAAAGTGCAGGAAAAGC
+canFam2.chr1                        ------ATCATGA-TGTAAAT------TCCGGGTAAAGTACAACAAAAGG
+
+mm9.chr10                           TTTTAGCAGCAGAATAAACTTTT-AAAGTAAATTACTTTCCTTGATAGCA
+oryCun1.scaffold_156751             TTTTTCCAGTAGAATAAGCCTTT-AGAGGAAACTGCTTCCCTTGCTAGTA
+hg18.chr6                           TTTTTGCAGTGGAATAAAATGTT-AAAGGGAATTGCTTTCCTTGATAGCA
+panTro2.chr6                        TTTTTGCAGTGGAATAAAATGTT-AAAGGAAATTGCTTTCCTTGATAGCA
+ponAbe2.chr6                        TTTTTGCGGTGGAATAAAATGTT-AAAGGAAATTGCTTTCCTTGATAGCA
+calJac1.Contig6394                  -TTTTGCAGTGGACGAAAATGTT-GAAGGAAATTGCTTTTCTTGATAGCA
+otoGar1.scaffold_334.1-359464       CCTTTACGGTAGAATAAAAGGTT-AAAGGAAATTGCTTTTCTTGATAGCA
+tupBel1.scaffold_114895.1-4984      TTTTTGCAGTAGGATAAACTTTT-AAAGGAAATTGCCTTCCTTGACAGCA
+felCat3.scaffold_205680             ATTTTG-AGTAGAATAAAATGTT-GTAGGAAATTGCTTTCTTCAAGAGAC
+canFam2.chr1                        ATTTTG-AACAGGATAAAATGTTAATAGGAAATTACTTTCTTTGAGAGCA
+
+mm9.chr10                           ACTAGACGACCCAATTGA-TACAGT------GGAAAG-----A-------
+oryCun1.scaffold_156751             ATCAAGTGTTCAAAGTGA-TACAACAAAGAAAAAAAA-----A-------
+hg18.chr6                           ATCAGGTCACCAAAGTGA-GATGA-------AGAAAA-----A-------
+panTro2.chr6                        ATCAGGTCACCAAAGTGA-GATGA-------AGAAAA-----A-------
+ponAbe2.chr6                        ATCAGGTCACCAAAGTGA-GATGA-------AGAAAA-----A-------
+calJac1.Contig6394                  ATCAGGTCACCAAAGTGA-GATGA-------AGAAA--------------
+otoGar1.scaffold_334.1-359464       ATCAGGTGACCAAAGTGATTATAA-------AGAAAA-----A-------
+tupBel1.scaffold_114895.1-4984      ATCAGGTGACCAAAGTCATACTGA-------AAAAAA-----AAACAAAA
+felCat3.scaffold_205680             ATTAGGTGATTAAAGTAA-TATAA-------AGGGAA-----T-------
+canFam2.chr1                        ATCAGGTGATTGAAGGAA-TATAA-------AGGGAAAAAACA-------
+
+mm9.chr10                           ---GGCCTTTGAGAAT---GCATGAGAGAATAT---TTCCTGTA------
+oryCun1.scaffold_156751             ---GCCTTTTGGGAAT-CAGGATGGAATAATATTACTTCCCCTATTTCTC
+hg18.chr6                           ---TTTTTTTGAGAATGCAGGATAGAATAATATTATTTCCCTTATTTCTA
+panTro2.chr6                        --TTTTTTTTGAGAATGCAGGATAGAATAATATTATTTCCCTTATTTCTA
+ponAbe2.chr6                        --TTCTTTTTGAGAATGCAGCACAGAATAATATTATTTCCCTTATTTCT-
+calJac1.Contig6394                  ---GTTTTTTGAGAATGTGGGATAGAATAATATTGTTTTCGTTATTTCTA
+otoGar1.scaffold_334.1-359464       ---ATGTTTTGAGAATGCTGGAAAGAATAATTTTATCCACCCTCCATTTC
+tupBel1.scaffold_114895.1-4984      ACAAACTTTTGTGGATGCAGTATAGAAGCATATTATTTTCCCTATGTCT-
+felCat3.scaffold_205680             ---TTTTTTTGAGAATACAGGATACAATAATATTATTTCCCCTACATCTA
+canFam2.chr1                        ---AAGTTCAGTGAATCCAAGTTAGAATAATATTGTTTCCCTTACTTCTA
+
+mm9.chr10                           AGAGTTGAACAATTTAGAATTTACc
+oryCun1.scaffold_156751             AGAGCTAAATAGTTTAGGATT----
+hg18.chr6                           AGAGTTAAACAATTTAGGATT----
+panTro2.chr6                        AGAGTTAAACAATTTAGGATT----
+ponAbe2.chr6                        AGAGTTAAACAATTTAGGATT----
+calJac1.Contig6394                  AGAGTTAAACAATTTAGGATT----
+otoGar1.scaffold_334.1-359464       AGAGTTAAATAATTCAGGATT----
+tupBel1.scaffold_114895.1-4984      -AAGTTAAATAACTTGGGCTT----
+felCat3.scaffold_205680             AGAGttaaataatttaaaatt----
+canFam2.chr1                        AGAGttaaataatttaaaatttaat
+
+
+mm9.chr10                           actagggatgggagaggctcccagaacccagtaatgatgacattaagaaa
+
+mm9.chr10                           tacacaacagttgggaaatggaacccaaagagaacacctccagtagataa
+
+mm9.chr10                           gcatgacccccagttgagggatgggcccatgcacccatcttaaaattttg
+
+mm9.chr10                           gacccagaattattcttctcaaaaggaaatgcagggatgaaaatggagca
+
+mm9.chr10                           gagactggaagaaaggccaaccagagactgccctaactcaggatccatcg
+
+mm9.chr10                           catgtgcaggcaccaaccccaacactattgctgatgccatgttgtacttg
+
+mm9.chr10                           ctgatggaagcctggcatggctgtcctctgagagtctcaaatgaggcacc
+
+mm9.chr10                           tgacagatgcagatacttacagccaaccaatggactgagccccgggacct
+
+mm9.chr10                           caataaaagaatgaggggatggcaaccccataggaagaacaacagtatca
+
+mm9.chr10                           actccctggactcctcagagctcccggggactaagccaccaactaaagag
+
+mm9.chr10                           catacataggctgctctgaggccccagatacatatgtagcagaggactgc
+
+mm9.chr10                           ctcagtgggaggggatgtgcttggtcttgtgaaggcttgatgctccagag
+
+mm9.chr10                           aaggaggatgctagaggggtgaggtgggagtggatgggtgggtgggcagg
+
+mm9.chr10                           ggagcaccctcttagaggacaagggctctggggtgggggagctcatggag
+
+mm9.chr10                           ggggaactgggaaggagggagaacatttgaaatgtaaataaataaaataa
+
+mm9.chr10                           taaaaaa
+
+
+mm9.chr10                           TGTCAAACATGCATAAAGATATACT-GAGGAGCCCATGAATTTTA
+canFam2.chr1                        tGTT------------TAACATAATAGAGGGGCCCATGAATTTTA
+panTro2.chr6                        ----AAAAAT---TTTAAATATACTAGAGGGGTCCATGAATTTTA
+hg18.chr6                           ----AAAAAT---TTTAAATATACTAGAGGGGTCCATGAATTTTA
+
+
+mm9.chr10                           TATATATGCTATCCGTGTGCTGTGATTTTTGTTTTAAATGTTATTTTATG
+
+mm9.chr10                           TATATGcaagattttgcattgtagcagaaggtggcttcaaactcacgatc
+
+mm9.chr10                           ctcctgcctcagccttccaagtgctgagatcatacctctgcaccatcctg
+
+mm9.chr10                           cccACCT
+
+
+mm9.chr10                           GAGGTTTGTGACTTTTAATA----------CTGATTGTTATCTAACATCA
+hg18.chr6                           ---------------------------------ATGGTTATTTAATACTG
+panTro2.chr6                        ---------------------------------ATGGTTATTTAATACTG
+canFam2.chr1                        --------------------------TAATAAAATAATTCTGTACCATTA
+felCat3.scaffold_205680             ---GTCCATGAATTTTAATGGTGAAGTAATGAAATAATTCTTTAATATCA
+cavPor2.scaffold_216473             GAGTTCTGCAAATtttaata----------ggaaaagaagatTAATATTA
+oryCun1.scaffold_156751             -AGATCCATGAATTTTAATA---AAGCAATGAGATAATTATTTAATGTTG
+calJac1.Contig6394                  GGGGTCCATGAATTTTAATA-----GTAACAAAATGGTTATTCAATATTG
+ponAbe2.chr6                        GGGGTCCATGAATTTTAATA-----GTAATAAAATGGTTATTTAATATTG
+
+mm9.chr10                           CAGAATTCTCAGTTCTTAAGGAAACAATTGTTCTGTGTGTTATTTGTCTA
+hg18.chr6                           CACAATCCTCAGCTTTTAAGGAAAAACATGTTTGACTTATTAATTATTTA
+panTro2.chr6                        CACAATCCTCAGCTTTTAAGGAAAAACATGTTTGACTTATTAATTATTTA
+canFam2.chr1                        TGAAGTTCTCAGCTCTTAAGGAAAAA-----GTGATTTGTTAATTACTTA
+felCat3.scaffold_205680             C----------------------AAA-----GTAATTTATTAATTATTTA
+cavPor2.scaffold_216473             CAAAGTTTTCAGTTCTGATGGAAaaa----------gtgtgattttttta
+oryCun1.scaffold_156751             GAAAATCCTCAAGTCTTAAGGAAAAAAGTGTTTGACTTGTTAATGACTTG
+calJac1.Contig6394                  CAAAATCCTCAGC-TTTAAGGAAAAACATATTTGATTTGTTAATTATTTA
+ponAbe2.chr6                        CAAAATCCTCAGCTTTTAAGGAAAAACGTGTTTGACTTATTAATTATTTA
+
+mm9.chr10                           GGAGGA
+hg18.chr6                           GGACAA
+panTro2.chr6                        GGACAA
+canFam2.chr1                        GGACAA
+felCat3.scaffold_205680             GGACAA
+cavPor2.scaffold_216473             aa----
+oryCun1.scaffold_156751             GGATGA
+calJac1.Contig6394                  GGACAA
+ponAbe2.chr6                        GGACAA
+
+
+mm9.chr10                           ACCTTGGTGACGCCACTGGATTTTGTATGACTGAATACTG
+oryCun1.scaffold_156751             ATCTTGATGAAGTCATTCCAACTTGGATGATTTAGGAATT
+otoGar1.scaffold_334.1-359464       ATCTTGGTGAAGTTATTCCAATTTATGTGATTTAGGAATG
+calJac1.Contig6394                  ATTTTGGTGAAGTTATTCCAACTTGTGTGGCTTAGGAATG
+hg18.chr6                           ATTTTGGTGAAGTTATTCCAACTTGCATGGCTTAGGAATG
+panTro2.chr6                        ATTTTGGTGAAGTTATTCCAACTTGCATGGCTTAGGAATG
+ponAbe2.chr6                        ATTTTGGTGAAGTTATTCCAACTTGCATGGCTTAGGAATG
+canFam2.chr1                        ATCTCAGTGAAGTCATTCTGACTCGCATGATTTAGGAATG
+felCat3.scaffold_205680             ATCTCAGTGAAGTTATTCTGACTTGCATGATTTAGGTATG
+dasNov1.scaffold_56749              ACATCAGTGAAATCATTCCGACTCGTATGACTGAGCGATG
+
+
+mm9.chr10                           CTCATTTGGGAACTTACAGGTCAGCAAAGGCTTCCAG-------------
+cavPor2.scaffold_216473             CTCATTTGGGAGTTCAGAGTT--------GCTATAAA-------------
+oryCun1.scaffold_156751             CTAATTTGGGCTCTTACATTTTATAACTGCCTAATGGAGTCTTCTTTTTT
+otoGar1.scaffold_334.1-359464       CTAACTTGGGGACACAGG-TTCATAAAGGCTTAATGGAGCCCACTGGTCC
+calJac1.Contig6394                  CCAGTTTGGGGACTTAGATTTTCTAACTGCCTAATGAAGTCTGCTCTTTC
+hg18.chr6                           ACAATTTGGGGATTTACATTTCCTAACTGCCTAATGAAGTCTGCTCCTTC
+panTro2.chr6                        CCAATTTGGGGATTTACATTTCCTAACTGCCTAATGAAGTCTGCTCTTTC
+ponAbe2.chr6                        CCAATTTGGGGATTTACATTTCCTAACTGCCTAATGAAGTCTGCTCTTTC
+canFam2.chr1                        CTAATTTGGTGACTCAAATTTCATAATTGCTTAATGAAAGCTGATGTTTT
+felCat3.scaffold_205680             CTAATTTGGTGACTTGAATTTCATAATTGCTTAAGGAAGCCTGCTGTTTC
+dasNov1.scaffold_56749              CTAATTGGGGGACTCACATTTTAAAATTGCTAACCGAAGCCTGCTGTTTT
+
+mm9.chr10                           -------GACTTACATGCAG
+cavPor2.scaffold_216473             -------TACTTGTGA----
+oryCun1.scaffold_156751             CCT-CCTTAATTACACGTAT
+otoGar1.scaffold_334.1-359464       CTTCCCCAGACTCTATGTAC
+calJac1.Contig6394                  CTTCCCTAGCCTATATGTAT
+hg18.chr6                           CTTCCCTAGACTATATGTAT
+panTro2.chr6                        CTTCCCTAGACTATATGTAT
+ponAbe2.chr6                        CTTCCCTAGACTATATGTAT
+canFam2.chr1                        CTTCCCTACACCATATGTAT
+felCat3.scaffold_205680             CTTCCCAAGACTATATGCAT
+dasNov1.scaffold_56749              CTTCTCTAGACTATAAGTAT
+
+
+mm9.chr10                           CTGTTAGTGCTGTTTT---AATGTACCTCGCAGTA
+cavPor2.scaffold_216473             -----ATTACTTTCTT---AATGTAAATTTTTATA
+oryCun1.scaffold_156751             TTGCTAGTA--TTCTC---AATGTAATATTTTATA
+otoGar1.scaffold_334.1-359464       TTGCTGGTGTTCCCTT---AATATAATGTTTTATA
+calJac1.Contig6394                  TTACTCGTG--CCCTT---AATATAGCATTTTATA
+hg18.chr6                           TTGCTGGTA--CTCTT---AATATCACATTTTATA
+panTro2.chr6                        TTGCTGGTA--CTCTT---AATATCACATTTTATA
+ponAbe2.chr6                        TTGCTGGTG--CTCTT---AATATAACATTTTATA
+canFam2.chr1                        TTGCTGGTGCTCTCAA---AATGTAGCA-------
+felCat3.scaffold_205680             TTGCTGGTGCTCTCAA---AATATAACA-------
+dasNov1.scaffold_56749              TTGCTGGTG--ATCTGATTAATGTAACATTTTATG
+echTel1.scaffold_288249             CTGTTAATG--CTCTG------------TTTTATG
+
+
+mm9.chr10                           AGGCAAATGAGGTGATAAGA-------TTGTGTT-----TAC----TCCC
+cavPor2.scaffold_216473             AG-CAGATGAGATAACAGTG-------ATATATT-----cat----tctc
+oryCun1.scaffold_156751             AAGCAAATGAGGTGATGAGG---------GCATC-----TAT----TTCT
+otoGar1.scaffold_334.1-359464       AAACAAATGAGATCACA-GG-------ACATATG-----TA--CTTGTCC
+calJac1.Contig6394                  AAGCAAATGAGATCACA----------GCACATG-----TATATTTTTTC
+hg18.chr6                           AAACAAATGAGATCACAAGG-------GCATATA-----TGT-TTTTTTC
+panTro2.chr6                        AAACAAATGAGATCACAAGG-------GCATATA-----TGT-TTTTTTC
+ponAbe2.chr6                        AAACAAATGAGATCACAAGG-------GCATATG-----TAT-TTTTTTC
+eriEur1.scaffold_266115             taaataataagataagatgaaagCATAGCATGTA-----TTTTCTtgccc
+canFam2.chr1                        tAGAAAATGAGATACC-----------GTGTGTA-----TATGCTTTCTC
+felCat3.scaffold_205680             AAGCAAATGAGATAAG-----------ACACGTG-----TATTCTTCCTC
+dasNov1.scaffold_56749              AGGAAAGTGAGAGGACCAGG-------GCAAATA-----AATATTCTTTC
+echTel1.scaffold_288249             AAGAAGGTGAGATGACAAGG-------GTGTATAGATAGGATATTCTTGC
+
+mm9.chr10                           TCTGTGC----------TTG
+cavPor2.scaffold_216473             tgtgtgt----------atg
+oryCun1.scaffold_156751             TATTTGT----------GTG
+otoGar1.scaffold_334.1-359464       CCCACGT----------GTG
+calJac1.Contig6394                  TCCGTGT----------GTG
+hg18.chr6                           TCTGTGT----------GTG
+panTro2.chr6                        TCTGTGT----------GTG
+ponAbe2.chr6                        TCTGTGT----------GTG
+eriEur1.scaffold_266115             tctccttctctgtctctgtc
+canFam2.chr1                        TCTGTGT---GGGGTCTGTG
+felCat3.scaffold_205680             TCTGTGT---GGTGTCTGTG
+dasNov1.scaffold_56749              TCTGTGT----------A--
+echTel1.scaffold_288249             TTTGGGT----------G--
+
+
+mm9.chr10                           -------------------TCCC-------AGAGAGTCTGA-TAGGAGGA
+cavPor2.scaffold_216473             -------------------tgcctTTGTATAGTGGCTCTGAGTATAAAGT
+oryCun1.scaffold_156751             -------------------TGCCTGTGTATAGCATTTCTGAATATA----
+ponAbe2.chr6                        -----------------------TCTG---AGTGTGTATGAATATGAAGT
+panTro2.chr6                        -----------------------TCTG---AGTATGTATGAATATGAAGT
+hg18.chr6                           -----------------------TCTG---AGTATGTATGAATATGAAGT
+calJac1.Contig6394                  -----------------------TCTG---AGTATGTCTGAATATGAAGT
+otoGar1.scaffold_334.1-359464       -----------------------TCTA---AGTGTGTCTGAACATGATGT
+tupBel1.scaffold_114895.1-4984      -----------------------TCTC---TGAGTGTCTGAACTTGAGGT
+eriEur1.scaffold_266115             -----------------------TCTC---AGTGTGTCTGACCAG-----
+canFam2.chr1                        -----------------------TCTG---AGTGTGTCTGAATGTGAGGT
+felCat3.scaffold_205680             -----------------------TCTG---AGTGTTCCTGAATGTGAGGT
+dasNov1.scaffold_56749              T-TGTGTGCCTTTGCGGAGCATTTCTG---AGCGTGTCTGAACTTGAGGT
+echTel1.scaffold_288249             TGCCCAGGACTGCGCATGGTATTTCTT---GGTGTGTCTGAAGGTGAGAT
+
+mm9.chr10                           G
+cavPor2.scaffold_216473             A
+oryCun1.scaffold_156751             -
+ponAbe2.chr6                        A
+panTro2.chr6                        A
+hg18.chr6                           A
+calJac1.Contig6394                  G
+otoGar1.scaffold_334.1-359464       G
+tupBel1.scaffold_114895.1-4984      A
+eriEur1.scaffold_266115             -
+canFam2.chr1                        A
+felCat3.scaffold_205680             G
+dasNov1.scaffold_56749              A
+echTel1.scaffold_288249             A
+
+
+mm9.chr10                           TGCACTGGTTTTCC-TGCAGTGGTTCTCAGTAATAGGAAGACA-ACAGAA
+echTel1.scaffold_288249             GGCATTGGTTTTTAGAGAGAGAACCCACATAAGTAGGAAAACATTTTGAA
+dasNov1.scaffold_56749              TGCATTGATTTTCAGTGAGGGAAATCACAC---TAAGAGAGCATTTTGAA
+felCat3.scaffold_205680             TGCATTGATTTTCA-TGCATTGATTCACATGAATAGGAATGCATTTTGAA
+canFam2.chr1                        TGCATTAATTTTCA-TGCGTTGATTCACATGAATAGGAATACA-TTTGAA
+eriEur1.scaffold_266115             -GCACTGATTCTCG-AGGGTTGATTCCCAGTAAGAGGAAACTG-CGTGAG
+sorAra1.scaffold_2476               TGCATTGATTTTTA-AGTATTGATTCACATGAAAAGGAAAGCA-CTTCAA
+tupBel1.scaffold_114895.1-4984      TGCATTGAATTCCA-TGTGTTATGTCACATTAATAGGAAACGA-TTCTAA
+otoGar1.scaffold_334.1-359464       TG----GATTTTTA-CACATTGATTCACCTTAACGGGAAAACA-TGTGAA
+calJac1.Contig6394                  TGCATTGGTTTTTA-TGCCTTGATTCACATGAATAGGAAAACG-TTTGAA
+hg18.chr6                           TGCTTTGATTTTTA-TGCATTGATTTACATGAATAGGAAAATG-TTTGAA
+panTro2.chr6                        TGCTTTGATTTTTA-TGCATTGATTTACATGAATAGGAAAACA-TTTGAA
+ponAbe2.chr6                        TGCTTTGATTTTTA-TGCATTGATTTACATGGATAGGAAAACG-TTTGAA
+oryCun1.scaffold_156751             ------TCTTTACA-TACTTTGATTTACATCGACGGGAAAACA-TTTGCA
+cavPor2.scaffold_216473             GGCATTGATTTCCA-TGCATTAATTCACATTAATAGGAAAACA-GTCCAA
+
+mm9.chr10                           TTTGAAGTATCCGGCTTTGGCCA
+echTel1.scaffold_288249             TTTATAGTAAATATTCTTGGCTA
+dasNov1.scaffold_56749              TTTATAATAAATGCTCTTGGCTA
+felCat3.scaffold_205680             ATTATAGCAAATGTTTTTGGCTG
+canFam2.chr1                        TTTATAGGAAATGCTTTTGGCTG
+eriEur1.scaffold_266115             TTTACAGTACATGGGCTTGGCTG
+sorAra1.scaffold_2476               TTTATGATAAAT-GATTTGGCCA
+tupBel1.scaffold_114895.1-4984      TTGATAGGAAATGCTTCTGACCA
+otoGar1.scaffold_334.1-359464       TTTGTAGGAAAGGCATTTGGCCA
+calJac1.Contig6394                  TTTATAGGAAATGGTTTTGGCCA
+hg18.chr6                           TTTATAGTAAATGGTTTTGGCCA
+panTro2.chr6                        TTTATAGTAAATGGTTTTGGCCA
+ponAbe2.chr6                        TTTATAGTAAATGGTTTTGGCCA
+oryCun1.scaffold_156751             TTTATAGCAATGGCTTTTGGTCA
+cavPor2.scaffold_216473             TTTATAGTAAATGGTTTTGGCCA
+
+
+mm9.chr10                           CTTTCTCTGACATTACTGTAACTGAAGTAGCTC-AGAAGCACAAAAGGTC
+cavPor2.scaffold_216473             CCTTTGCTGATGTTACTGTAAGCGAACTAGCTG-AAAAGCACAAAAGGTC
+oryCun1.scaffold_156751             TCGTCTCTGATGTTACTCTAGCTGAAAGCGCTC-CAAAGCACAAAAGGCC
+ponAbe2.chr6                        CCTTCTCTGATGTTACTGTAACTGAAATAGCTC-AAAAGCACAAAAGGTC
+panTro2.chr6                        CCTTCTCTGATGTTACTGTAACTGAAATAGCTC-AAAAGCACAAAAGGTC
+hg18.chr6                           CCTTCTCTGATGTTACTGTAACTGAAATAGCTC-AAAAGCACAAAAGGTC
+calJac1.Contig6394                  CCTTCTCTGATATTACTGTAACTGAAATAGCTC-AAAAGCACAAAAGGTC
+tupBel1.scaffold_114895.1-4984      TCCTCTCAGATGTTCCTGTAACCAAAGTAGCTC-AGAAGCACAAAAGGTC
+sorAra1.scaffold_2476               CCTTCTCTGATGTTACTGTAACTGAGGTAGCTCAAAAAGCACAAAAGGTC
+eriEur1.scaffold_266115             CCTTCTCTGATCTGACTGTAACCGAAGTCTCTC-GAAAGCACAAAAGCTC
+canFam2.chr1                        CTGTCTCTGATGTTACTGTAACTGAAGTAGCTC-AAAAGCACAAAAGGTC
+felCat3.scaffold_205680             CTGTCTCTGATGTTACTGTAACTGAAATAGTTC-AAAAGCACAAAAGGTG
+dasNov1.scaffold_56749              CCTTCTCTGATGTTACTGTAACTGAAGAGGCTC-AAAAGCACAAAAGGTC
+echTel1.scaffold_288249             CCATCTCTGATATTACTGTAATGGAATTACTTT-GAAAGCACAAAAGGTC
+ornAna1.chr2                        CCACCTCTGATATCACTGTAACTCAGCTACCCA-GAAGATAGGAAAGGTC
+
+mm9.chr10                           ACATCATGCATCCATGCAGAATCCACTGAAGCTGTTTGGAAAGGC-----
+cavPor2.scaffold_216473             ATGTCAGGCATTTATGCAAAATTTACTAGTTCCGTTCATAAAGGCACCTC
+oryCun1.scaffold_156751             ATGGCAGGCATTTATGTCAAATGTACTAGCACTGTTTATAACAGCACCTT
+ponAbe2.chr6                        ATGGGAGGCATTCATGTAAAACTTACTAGTGCTGTTTATAAGGGTACCTT
+panTro2.chr6                        ATGGGAGGCATTTATGTAAAACTTACTAGTGCTGTTTATAAGGGTACCTT
+hg18.chr6                           ATGGGAGGCATTTATGTAAAACTTACTAGTGCTGTTTATAAGGGTATCTT
+calJac1.Contig6394                  ATGGCAGGCATTTATGTAAAACTTACTAGTGCTGTTTATAAAGGCACCTT
+tupBel1.scaffold_114895.1-4984      ATGCCAGGCATTGATGTAAA-------------GTTTCTGAAGGCATCTC
+sorAra1.scaffold_2476               ATGTCAGGCATTGATGTAAAATATACCAGTGCTGTTTATAAAGACCCCTT
+eriEur1.scaffold_266115             ACGGCAGGCCTTTCTGTAAAATACAGCGGCGCTGCTTCCAAAGGCacctt
+canFam2.chr1                        ATGTCAGGC-TTTATGTAAAATTTACTAGAGCTGTTTATAAAGGCACCTC
+felCat3.scaffold_205680             ATGTCAGGCATTTATGTAAAATTTACTAGTGCTGTTTATAAAGGTACCTT
+dasNov1.scaffold_56749              ATGTCGGGCATTGATGTAAAATTTACTAGTGCTG-TTTATAAAGGACCTT
+echTel1.scaffold_288249             AGGACAAGCGTGTATGTGAAATTTCCTAGAGCTGTTTTCCTGCACACCTT
+ornAna1.chr2                        ATATCAGCCAATCATGTGCAACTTAATAGCCCTGTTCATAAAGCTGCTTT
+
+mm9.chr10                           ------------------CACGTGTCTTCCCAGAAGGCCAGTTACACCAT
+cavPor2.scaffold_216473             GCATTTTATTACTTAGTTCATGTGTCTCGCAGGAAATCCAGTCACGCCAT
+oryCun1.scaffold_156751             GTGTTGTATTACTTTGTTCA-----------GGAAATCCAGTCACGCCGC
+ponAbe2.chr6                        GTGTTTTATTACTTTGTTAATGTATCTTTCAGGAAATTCAGTCACGCCAT
+panTro2.chr6                        GTGTTTTATTACTTTGTTAATGTACCTTTCAGGAAATCCAGTCATGCCAT
+hg18.chr6                           GTGTTTTATTACTTTGTTAATGTACCTTTCAGGAAATCCAGTCATGCCAT
+calJac1.Contig6394                  GTGTTTTATTACTTTGTTAATGTACCTTTCAGGAAATCCAGTCATGCCAT
+tupBel1.scaffold_114895.1-4984      GTGTTTTATTACTTTGTTCATGTGCCTTACAGGAAATCCAGTCGGGCCAT
+sorAra1.scaffold_2476               GCATATAATGTTGTTGATCATGAACTTTTCCGGAAATCCTGTAATCTCAT
+eriEur1.scaffold_266115             gca------gatgtctctcacgcATTTGGCAGGAGTCCCTGTCACTCGGC
+canFam2.chr1                        GTGTAATATTGCTTTGTTCATGTACTTTACAGGAAATCCTGTCATCCTGT
+felCat3.scaffold_205680             GTGTATTATTGCTTTGTTCATGCACTTTATAGGAAATCCTGTCATCCTGT
+dasNov1.scaffold_56749              GTGTTCTATTACTTTTTCTATCCCCCTTACAGGAAATCCTGTCATACCAT
+echTel1.scaffold_288249             GGATTTTATTGCTTAGTTCATTTGCTTTCCCAGAAATCCCGCCATGCCAT
+ornAna1.chr2                        GTGTTTTATGAGGCTATTCATTCACCTTAGGGGAAATCCTGTCAAGCCAT
+
+mm9.chr10                           CATTTCCTTCCATGTTTCAG
+cavPor2.scaffold_216473             CATTTCCTTCCATATTTCAA
+oryCun1.scaffold_156751             GATTTCCTTCCACATTTCAA
+ponAbe2.chr6                        CATTTCCTTCCATATTTCAT
+panTro2.chr6                        CATTTCCTTCCATATTTCAT
+hg18.chr6                           CATTTCCTTCCATATTTCAT
+calJac1.Contig6394                  CATTTCCTTCCATATTTCAT
+tupBel1.scaffold_114895.1-4984      CATTTCCTTCCATATCTCAG
+sorAra1.scaffold_2476               CATTTCCTCCCATATTCCAG
+eriEur1.scaffold_266115             CAGTTCC-------TTCCTG
+canFam2.chr1                        TACTTCCTTCCATATTTCAA
+felCat3.scaffold_205680             CATTTCCTTCCATAGTTCAG
+dasNov1.scaffold_56749              CATTTCCTTCCATAAGTCAC
+echTel1.scaffold_288249             CATTTCCTTCCACATCTCAG
+ornAna1.chr2                        CATTTCCTTCCATATCTTCA
+
+
+mm9.chr10                           -ACGTTGCTCATTGT-----AATTGAAGCATTTATTACCAA--------T
+cavPor2.scaffold_216473             -CTGTTCCTTGTTACA----AATAAAAGTATGTTTTGCTGA--------C
+oryCun1.scaffold_156751             -TGGTTCCTCATTATG----GATTAAAGCATTCACTGCTAA--------T
+ponAbe2.chr6                        -CTGTTGCTCATTATA----AATAAAAGTGTTTATTGCTAA--------T
+panTro2.chr6                        -CTGTTCCTCATTATA----AATAAAAGTGTTTATTGCTAA--------C
+hg18.chr6                           -CTGTTCCTCATTATA----AATAAAAGTGTTTATTGCTAA--------C
+calJac1.Contig6394                  -CTGTTTCTCATTATA----AAT--AAGTGTTTATTGCTAA--------C
+tupBel1.scaffold_114895.1-4984      -CTGCTCCTCATGATA----AAT-ATAGCGTTTGTTGCTAA---------
+sorAra1.scaffold_2476               -CTGTTCCTTCTTAGATTaaaaaaaGAGCGTTTATGACCAG--------C
+eriEur1.scaffold_266115             -CTCCTTGTTCTTGAAGC----------CGTTTTTTATTGT--------C
+canFam2.chr1                        -CTGTTTCTCATTATA----AATAAAAGCATTTATTGCTAA--------T
+dasNov1.scaffold_56749              -CTGTTCCTCTTTAT-----AATAAAAGCATTTACTGCTAA--------C
+echTel1.scaffold_288249             -CTGATCCTCATTATA----AATAAAAGTGTTTGTTACTAA--------T
+ornAna1.chr2                        ACTG-TCCTCATTGTA----CAGGGACTCTTTTATTACTAAAGATCCCCC
+
+mm9.chr10                           G--------------CCTTCCC
+cavPor2.scaffold_216473             G-------G-----CCCCTCTG
+oryCun1.scaffold_156751             ----------------------
+ponAbe2.chr6                        --------------GCTTTCTC
+panTro2.chr6                        --------------GCTTTCTC
+hg18.chr6                           --------------GCTTTCTC
+calJac1.Contig6394                  --------------GCTTTCTC
+tupBel1.scaffold_114895.1-4984      ----------------------
+sorAra1.scaffold_2476               A-------GGTTCC--------
+eriEur1.scaffold_266115             A-------GTG-----------
+canFam2.chr1                        G-------T------------C
+dasNov1.scaffold_56749              GGCTCCTC--------------
+echTel1.scaffold_288249             G---------------------
+ornAna1.chr2                        ----------------------
+
+
+mm9.chr10                           CCCT--ACACTGTC----AAGTGGGAGGAGACAGT---------------
+cavPor2.scaffold_216473             AGCC--acactgg-----gggtggggtgggatggt---------------
+ponAbe2.chr6                        -------CCCTGTG----GGGGCGATAGGAGCAGC---------------
+panTro2.chr6                        -------CCATGTG----GGGGCGATAGGGGCAGC---------------
+hg18.chr6                           -------CCATGTG----GGGGCGATAGGGGCAGC---------------
+canFam2.chr1                        CCCTGAACCACATG----GGGGGTGTGTGTGTGTG---------------
+ornAna1.chr2                        ----------TGTGTCATAGGAGTTTGGATGTAGCCCTCTTTCATCTTTG
+
+mm9.chr10                           -----
+cavPor2.scaffold_216473             -----
+ponAbe2.chr6                        -----
+panTro2.chr6                        -----
+hg18.chr6                           -----
+canFam2.chr1                        -----
+ornAna1.chr2                        CTGGC
+
+
+mm9.chr10                           TGTTTAGTACC----ATGCTTAGGAATGATAAACTCACTTAGTGtt
+ponAbe2.chr6                        TGTTGCATGTCCTTTATTCTTTGGCGTGATAGGCTCACCCAATCTT
+panTro2.chr6                        TGTTGCATATCCTTTATTCTTTGGCGTGATAGGCTCACCCAATCTT
+hg18.chr6                           TGTTGCATGTCGTTTATTCTTTGGCGTGATAGGCTCACCCAATCTT
+canFam2.chr1                        TGTTAAGTCTCACTTGCTGTTCAAAGTGATAGCTTCACTCCATCAT
+ornAna1.chr2                        TGTTTAAAATG----ATTGCTAGAACTTCTA--CTCACTGGA----
+
+
