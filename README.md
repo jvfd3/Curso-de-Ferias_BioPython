@@ -1,5 +1,10 @@
 # Curso de Férias: Biopython
 
+## Responsáveis
+
+- Milenna Machado Pirovani
+- João Vítor Fernandes Dias
+
 ## Material do curso
 
 - **Nosso conteúdo**
