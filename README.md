@@ -11,7 +11,7 @@
   - Apresentação
     - [Canva](https://www.canva.com/design/DAG_osc-YGg/sWj0-_oCf7b9Y76z4LHICQ/view)
     - [PDF](<../Documentos/Minicurso - Biopython.pdf>)
-  - [GitHub](https://github.com/jvfd3/Curso-de-Ferias_BioPython)
+  - [GitHub](https://github.com/jvfd3/Curso-de-Ferias_BioPython/blob/main/C%C3%B3digos/Minicurso_biopython.ipynb)
 - **Conteúdo base:**
   - [Documentação do biopython](https://biopython.org)
   - [Tutorial e Cookbook](https://biopython.org/docs/latest/Tutorial/index.html)
